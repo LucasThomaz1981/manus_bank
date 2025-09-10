@@ -1,0 +1,8 @@
+Plain Text
+Executando: rm -rf /home/ubuntu/manus_bank_prod
+Executando: git clone https://github.com/LucasThomaz1981/manus_bank.git /home/ubuntu/manus_bank_prod
+...
+Criando diretório: /home/ubuntu/manus_bank_prod/.github/workflows/
+Criando arquivo: /home/ubuntu/manus_bank_prod/.github/workflows/update-dashboard.yml
+...
+(O conteúdo do workflow, com o passo de deploy SFTP, é inserido no arquivo )
